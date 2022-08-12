@@ -1,4 +1,4 @@
-import { Alert } from "../node_modules/react-bootstrap/esm/index";
+import Alert from "../node_modules/react-bootstrap/esm/Alert";
 import AlertDismissibleExample from "../components/AlertDismissibleExample";
 import AlertDismissible from "../components/AlertDismissible";
 

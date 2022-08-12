@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Button from "react-bootstrap/Button";
+import Button from "../node_modules/react-bootstrap/esm/Button";
 
 export default function IndexPage() {
   return (
