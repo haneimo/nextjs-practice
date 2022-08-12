@@ -8,11 +8,14 @@
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {
+    "@types/node": "^18.7.1",
     "bootstrap": "5.2.0",
     "next": "12.2.4",
     "react": "18.2.0",
     "react-bootstrap": "2.5.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "typescript": "^4.7.4",
+    "update": "^0.4.2"
   },
   "license": "MIT",
   "keywords": [],
