@@ -11,9 +11,3 @@ export default function ImageComponentPage() {
         )}
     </>);
 }
-
-//img {
-//	user-drag: none;
-//	-webkit-user-drag: none;
-//	-moz-user-select: none;
-//}
